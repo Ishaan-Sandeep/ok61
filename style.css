@@ -1,0 +1,34 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+.header_div {
+ background-color: blanchedalmond;
+ font-weight: bold;
+ margin: 0px;
+ top: 0;
+}
+.header_div p{
+    font-size: 18;
+    font-weight: normal;
+    letter-spacing: 3px;
+    font-family: 'Bitter', serif;
+}
+.main_div {
+    font-family: 'Inter', sans-serif;
+}
+.main_div button {
+    font-weight: bolder;
+    font-size: medium;
+    margin-top: 35px;
+    letter-spacing: 1.69420px;
+    width: 130px;
+}
+#copy_right_div {
+    background-color: lightpink;
+    width: 100%;
+    text-shadow: 5px 5px 5px rgb(149, 185, 232);
+    bottom: 0;
+    position: fixed;
+    line-height: 30px;
+}
